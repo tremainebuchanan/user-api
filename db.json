@@ -12,7 +12,7 @@
         {
             "id": 1,
             "title": "Blood Pressure",
-            "value": "129\/71",
+            "value": "129-71",
             "unit": "mmHG",
             "created_on": "14 December 2020" 
         },
@@ -20,14 +20,14 @@
             "id": 2,
             "title": "Blood Glucose",
             "value": "20.3",
-            "unit": "mg\/dl",
+            "unit": "mg-dl",
             "created_on": "14 December 2020" 
         },
         {
             "id": 3,
             "title": "Body Mass Index",
             "value": "20",
-            "unit": "mg\/dl",
+            "unit": "",
             "created_on": "14 December 2020" 
         },
         {
