@@ -7,5 +7,35 @@
             "email": "evertoncampbell100@gmail.com",
             "ehrId": 12345
         }
+    ],
+    "metrics": [
+        {
+            "id": 1,
+            "title": "Blood Pressure",
+            "value": "129/71",
+            "unit": "mmHG",
+            "created_on": "14 December 2020" 
+        },
+        {
+            "id": 2,
+            "title": "Blood Glucose",
+            "value": "20.3",
+            "unit": "mg/dl",
+            "created_on": "14 December 2020" 
+        },
+        {
+            "id": 3,
+            "title": "Body Mass Index",
+            "value": "20",
+            "unit": "mg/dl",
+            "created_on": "14 December 2020" 
+        },
+        {
+            "id": 4,
+            "title": "Weight",
+            "value": "178",
+            "unit": "lbs",
+            "created_on": "14 December 2020" 
+        }
     ]
 }
