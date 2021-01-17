@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Everton",
+            "last_name": "Campbell",
+            "email": "evertoncampbell100@gmail.com",
+            "ehrId": 12345,
+        }
+    ]
+}
