@@ -37,5 +37,33 @@
             "unit": "lbs",
             "created_on": "14 December 2020" 
         }
+    ],
+    "notifications": [
+        {
+            "id": 1,
+            "category": "Blood Pressure",
+            "message": "Remember to take today's blood pressure reading.",
+            "created_on": "Nov. 5"
+        }
+    ],
+    "articles": [
+        {
+            "id": 1,
+            "title": "Understanding Blood Pressure Readings",
+            "subtitle": "This guide will help you to understand your blood pressure readings.",
+            "img":"https://source.unsplash.com/random"
+        },
+        {
+            "id": 2,
+            "title": "Monitoring your blood pressure at home",
+            "subtitle": "The recommended process for taking your blood pressure measurement at home.",
+            "img":"https://source.unsplash.com/random"
+        },
+        {
+            "id": 3,
+            "title": "What to know about High Blood Pressure",
+            "subtitle": "Find out everything there is to know about High Blood Pressure",
+            "img":"https://source.unsplash.com/random"
+        }
     ]
 }
