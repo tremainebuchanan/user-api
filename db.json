@@ -44,6 +44,12 @@
             "category": "Blood Pressure",
             "message": "Remember to take today's blood pressure reading.",
             "created_on": "Nov. 5"
+        },
+        {
+            "id": 2,
+            "category": "Blood Pressure",
+            "message": "New data was added to you Electronic Health Record",
+            "created_on": "Nov. 5"
         }
     ],
     "articles": [
